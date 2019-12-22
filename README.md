@@ -5,7 +5,7 @@ Files:
 
 1. CIA Notebook.doc is the R Notebook document.
 2. facts_df.csv is the Facts table from the CIA Factbook, found here on GitHub: https://github.com/factbook/factbook.sql/blob/master/README.md, or here on the CIA's website: https://www.cia.gov/library/publications/the-world-factbook/.
-3. CIA Factbook Tableau plots.pptx
+3. CIA Factbook Tableau plots.pptx = Powerpoint file of Tableau plots mentioned in Introduction.
 
 
 
